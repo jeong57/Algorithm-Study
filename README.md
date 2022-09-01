@@ -12,7 +12,9 @@
 
 **스터디 운영 방식**
 
-* 추천문제를 뽑아서 풀 때마다 체크. / github(https://github.com/jeong57/Algorithm-Study)에 업로드
+* 추천문제를 뽑아서 풀 때마다 체크. / github에 업로드
+
+* https://github.com/jeong57/Algorithm-Study
 
 * 주말: 개인적으로 풀고, 월요일에 코드 리뷰(점심시간), 혹은 오답노트, 새로운 개념 정리하고 유형 파악.
 * 월요일: 주말동안 푼 문제 리뷰, 개념 공유
