@@ -42,7 +42,7 @@
 | ------ | ------------------------------------------------------------ | -------- | ------ | ------ | ------ |
 | 백준   | [16916](https://www.acmicpc.net/problem/16916) 부분 문자열   | KMP      |        |        |        |
 | 백준   | [16947](https://www.acmicpc.net/problem/16947) 서울 지하철 2호선 | DFS, BFS | 09/02  |        |        |
-| 백준   | [1956](https://www.acmicpc.net/problem/1956) 운동            |  | floyd warshall |        |        |
+| 백준   | [1956](https://www.acmicpc.net/problem/1956) 운동            | floyd warshall |  |        |        |
 | 백준   |                                                              |          |        |        |        |
 
 <br>
