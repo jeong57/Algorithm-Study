@@ -32,10 +32,11 @@
 
 | 사이트 | 문제번호                                                         | 문제유형       | 김민정 | 오도석 | 최연지 |
 | ------ | ---------------------------------------------------------------- | -------------- | ------ | ------ | ------ |
-| 백준   | [16916](https://www.acmicpc.net/problem/16916) 부분 문자열       | KMP            | 09/04 | 09/05 | 09/04  |
+| 백준   | [16916](https://www.acmicpc.net/problem/16916) 부분 문자열       | KMP            | 09/04  | 09/05  | 09/04  |
 | 백준   | [16947](https://www.acmicpc.net/problem/16947) 서울 지하철 2호선 | DFS, BFS       | 09/02  |        | 09/04  |
-| 백준   | [1956](https://www.acmicpc.net/problem/1956) 운동                | floyd warshall | 09/04 | 09/04  | 09/04  |
-| 백준   | [1068](https://www.acmicpc.net/problem/1068) 트리 |                |        |        |        |
+| 백준   | [1956](https://www.acmicpc.net/problem/1956) 운동                | floyd warshall | 09/04  | 09/04  | 09/04  |
+| 백준   | [1068](https://www.acmicpc.net/problem/1068) 트리                |                |        |        |        |
+| 백준   | [14500](https://www.acmicpc.net/problem/14500) 테트로미노        |                |        |        |        |
 
 <br>
 
