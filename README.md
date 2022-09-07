@@ -38,7 +38,7 @@
 | 백준   | [1068](https://www.acmicpc.net/problem/1068) 트리            |                         |        |        |        |
 | 백준   | [14500](https://www.acmicpc.net/problem/14500) 테트로미노    |                         |        |        |        |
 | 백준   | [1749](https://www.acmicpc.net/problem/1749) 점수따먹기      | DP, Brute Force, 누적합 | 09/06  |        |        |
-| 프로그래머스   | [oracle sql](https://school.programmers.co.kr/learn/challenges?levels=1&languages=oracle&page=1) level1 | SELECT, NULL, COUNT, MIN, MAX|        |        |        |
+| 프로그래머스   | [oracle sql level1](https://school.programmers.co.kr/learn/challenges?levels=1&languages=oracle&page=1) | SELECT, NULL, COUNT, MIN, MAX|        |  O |        |
 |        |                                                              |                         |        |        |        |
 |        |                                                              |                         |        |        |        |
 |        |                                                              |                         |        |        |        |
