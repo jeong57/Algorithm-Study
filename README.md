@@ -30,21 +30,21 @@
 
 - 문제를 뽑아서 리스트에 넣고, 푼 이후에 문제 유형을 기입.
 
-| 사이트 | 문제번호                                                     | 문제유형                | 김민정 | 오도석 | 최연지 |
-| ------ | ------------------------------------------------------------ | ----------------------- | ------ | ------ | ------ |
-| 백준   | [16916](https://www.acmicpc.net/problem/16916) 부분 문자열   | KMP                     | 09/04  | 09/05  | 09/04  |
-| 백준   | [16947](https://www.acmicpc.net/problem/16947) 서울 지하철 2호선 | DFS, BFS                | 09/02  |        | 09/04  |
-| 백준   | [1956](https://www.acmicpc.net/problem/1956) 운동            | floyd warshall          | 09/04  | 09/04  | 09/04  |
-| 백준   | [1068](https://www.acmicpc.net/problem/1068) 트리            |                         |        |        |        |
-| 백준   | [14500](https://www.acmicpc.net/problem/14500) 테트로미노    |                         |        |        |        |
-| 백준   | [1749](https://www.acmicpc.net/problem/1749) 점수따먹기      | DP, Brute Force, 누적합 | 09/06  |        |        |
-| 프로그래머스   | [oracle sql level1](https://school.programmers.co.kr/learn/challenges?levels=1&languages=oracle&page=1) | SELECT, NULL, COUNT, MIN, MAX| 09/14 |        |        |
-| 백준 | [22864](https://www.acmicpc.net/problem/22864) 피로도 | Math(기초수학) | 09/13 | 09/13 | 09/13 |
-|        |                                                              |                         |        |        |        |
-|        |                                                              |                         |        |        |        |
-|        |                                                              |                         |        |        |        |
-|        |                                                              |                         |        |        |        |
-|        |                                                              |                         |        |        |        |
+| 사이트       | 문제번호                                                                                                | 문제유형                      | 김민정 | 오도석 | 최연지 |
+| ------------ | ------------------------------------------------------------------------------------------------------- | ----------------------------- | ------ | ------ | ------ |
+| 백준         | [16916](https://www.acmicpc.net/problem/16916) 부분 문자열                                              | KMP                           | 09/04  | 09/05  | 09/04  |
+| 백준         | [16947](https://www.acmicpc.net/problem/16947) 서울 지하철 2호선                                        | DFS, BFS                      | 09/02  |        | 09/04  |
+| 백준         | [1956](https://www.acmicpc.net/problem/1956) 운동                                                       | floyd warshall                | 09/04  | 09/04  | 09/04  |
+| 백준         | [1068](https://www.acmicpc.net/problem/1068) 트리                                                       |                               |        |        |        |
+| 백준         | [14500](https://www.acmicpc.net/problem/14500) 테트로미노                                               |                               |        |        |        |
+| 백준         | [1749](https://www.acmicpc.net/problem/1749) 점수따먹기                                                 | DP, Brute Force, 누적합       | 09/06  |        |        |
+| 프로그래머스 | [oracle sql level1](https://school.programmers.co.kr/learn/challenges?levels=1&languages=oracle&page=1) | SELECT, NULL, COUNT, MIN, MAX | 09/14  | 09/14  |        |
+| 백준         | [22864](https://www.acmicpc.net/problem/22864) 피로도                                                   | Math(기초수학)                | 09/13  | 09/13  | 09/13  |
+|              |                                                                                                         |                               |        |        |        |
+|              |                                                                                                         |                               |        |        |        |
+|              |                                                                                                         |                               |        |        |        |
+|              |                                                                                                         |                               |        |        |        |
+|              |                                                                                                         |                               |        |        |        |
 
 <br>
 
